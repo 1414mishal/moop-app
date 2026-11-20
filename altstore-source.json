@@ -1,0 +1,35 @@
+{
+  "name": "MOOP",
+  "identifier": "com.mishal.moop.source",
+  "sourceURL": "https://raw.githubusercontent.com/1414mishal/moop-app/main/altstore-source.json",
+  "subtitle": "WHOOP-style app for your own strap. Designed by Mishal.",
+  "description": "MOOP reads a WHOOP strap you own directly over Bluetooth and keeps everything on your iPhone. Built on NOOP (ryanbr). Not affiliated with WHOOP.",
+  "iconURL": "https://raw.githubusercontent.com/1414mishal/moop-app/main/icon.png",
+  "website": "https://github.com/1414mishal/moop-app",
+  "tintColor": "16EC06",
+  "apps": [
+    {
+      "name": "MOOP",
+      "bundleIdentifier": "com.mishal.moop.noop",
+      "developerName": "Mishal",
+      "subtitle": "Sleep · Recovery · Strain, offline.",
+      "localizedDescription": "MOOP talks to your WHOOP strap directly over Bluetooth: Sleep, Recovery and Strain scores, heart rate and history, all computed and stored on your iPhone. Designed by Mishal. Built on NOOP by ryanbr. Not affiliated with WHOOP.",
+      "iconURL": "https://raw.githubusercontent.com/1414mishal/moop-app/main/icon.png",
+      "tintColor": "16EC06",
+      "category": "healthcare-fitness",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-20",
+          "localizedDescription": "MOOP 1.0.0 (build 1).",
+          "downloadURL": "https://github.com/1414mishal/moop-app/releases/download/v1.0.0-1/MOOP.ipa",
+          "size": 21973797,
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
