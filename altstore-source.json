@@ -20,6 +20,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.2.1",
+          "buildVersion": "4",
+          "date": "2026-11-20",
+          "localizedDescription": "MOOP 1.2.1 (build 4).",
+          "downloadURL": "https://github.com/1414mishal/moop-app/releases/download/v1.2.1-4/MOOP.ipa",
+          "size": 24091619,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.2.0",
           "buildVersion": "3",
           "date": "2026-11-20",
